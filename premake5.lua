@@ -54,6 +54,7 @@ kind "StaticLib"
             "src/glx_context.c",
             "src/linux_joystick.c",
             "src/posix_module.c",
+            "src/posix_poll.c",
             "src/posix_time.c",
             "src/posix_thread.c",
             "src/x11_init.c",
